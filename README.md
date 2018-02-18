@@ -35,3 +35,8 @@ Kujunda kellan채ide vastavalt maitsele v천i kindlale teemale, mahutades kella t�
 * S체ndmuste loetelu [HTML DOM Events](http://www.w3schools.com/jsref/dom_obj_event.asp)
 * Ajal p천hinevad s체ndmused [JavaScript Timing Events](http://www.w3schools.com/js/js_timing.asp)
 * CSSi muutmine [HTML DOM Style Object](http://www.w3schools.com/jsref/dom_obj_style.asp)
+
+
+ekraanipilt: https://gyazo.com/856a4e474ed31ee12548bd6af080a8f9
+
+Saab muuta v채rvi, n채htavust ja suurust.
