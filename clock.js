@@ -48,8 +48,8 @@ function startClock () {
 	month[9] = "Oktoober";
 	month[10] = "November";
 	month[11] = "Detsember";
-	var d = day[date.getDay()];
-	var mont = month[date.getMonth()];
+	const d = day[date.getDay()];
+	const mont = month[date.getMonth()];
 	
 
 	
@@ -90,8 +90,8 @@ function randomColor() {
 
 
 function smaller() {
-    document.getElementById("clock").style.height="20px";
-    document.getElementById("clock").style.width="20px";
+    document.getElementById("clock").style.height="10px";
+    document.getElementById("clock").style.width="10px";
 }
 
 function resetsize() {
