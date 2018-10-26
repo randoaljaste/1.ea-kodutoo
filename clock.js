@@ -26,7 +26,7 @@ function startClock () {
 	//if (min > 10) {min = "0" + min};
 	// const min = ('0'+date.getMinutes()).slice(-2);
 	
-	var day = new Array();
+	const day = new Array();
 	day[0] = "Pühapäev";
 	day[1] = "Esmaspäev";
 	day[2] = "Teisipäev";
@@ -35,7 +35,7 @@ function startClock () {
 	day[5] = "Reede";
 	day[6] = "Laupäev";
 	
-	var month = new Array();
+	const month = new Array();
 	month[0] = "Jaanuar";
 	month[1] = "Veebruar";
 	month[2] = "Märts";
